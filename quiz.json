@@ -1,0 +1,17 @@
+[
+  {
+    "questionText": "What is the capital of France?",
+    "options": ["Paris", "London", "Berlin", "Madrid"],
+    "correctOption": "Paris"
+  },
+  {
+    "questionText": "Who wrote 'Hamlet'?",
+    "options": ["William Shakespeare", "Charles Dickens", "Leo Tolstoy", "Mark Twain"],
+    "correctOption": "William Shakespeare"
+  },
+  {
+    "questionText": "What is the chemical symbol for gold?",
+    "options": ["Au", "Ag", "Pb", "Fe"],
+    "correctOption": "Au"
+  }
+]
